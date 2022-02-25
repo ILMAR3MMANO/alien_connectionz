@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB9D5CcfD2C021Bb3D631420939540EC1c7F367a8",
+  "SCAN_LINK": "https://polygonscan.com/address/0xB9D5CcfD2C021Bb3D631420939540EC1c7F367a8#code",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alien Connectionz",
+  "SYMBOL": "ACz",
+  "MAX_SUPPLY": 700,
+  "WEI_COST": 3049000000000000000,
+  "DISPLAY_COST": "3,049",
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alienconnectionz",
+  "SHOW_BACKGROUND": true
+}
